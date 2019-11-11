@@ -1,0 +1,5 @@
+*.sw[op]
+.DS_Store
+*.gz
+venv
+*.html
